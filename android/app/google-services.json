@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718578865485",
+    "project_id": "ebiko-stocks",
+    "storage_bucket": "ebiko-stocks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718578865485:android:5e6428fdf359e8e8ae9304",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718578865485-u3g4dffsn6ifmeeis4lkitn9brf5i4ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgYt1njJN6LOUyip8UZ7bFqD9hpa67jPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718578865485-u3g4dffsn6ifmeeis4lkitn9brf5i4ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
